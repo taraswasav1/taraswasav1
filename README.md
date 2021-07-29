@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taraswasav1
 - 👀 I’m interested in learning test automation tools
 - 🌱 I’m currently learning python and robotframework
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... errors that appeared during robot framework installation.
 - 📫 How to reach me ... taraswasav@gmail.com
 
 <!---
